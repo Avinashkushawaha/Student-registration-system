@@ -63,7 +63,7 @@ export const AppProvider = ({ children }) => {
 
   return (
     <AppContext.Provider value={{
-      courseTypes,updateCourseType, addCourseType, updateCourseType, deleteCourseType,
+      courseTypes, addCourseType, updateCourseType, deleteCourseType,
       courses, addCourse, updateCourse, deleteCourse,
       courseOfferings, addCourseOffering, updateCourseOffering, deleteCourseOffering,
       studentRegistrations, registerStudent, deleteStudentRegistration,updateStudentRegistration, 
