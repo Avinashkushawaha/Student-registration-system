@@ -3,7 +3,7 @@
 
 Welcome to the **Student Registration System**, a modern web application to streamline student enrollments, manage course types, create courses, and handle course offerings with ease! Built using the latest frontend tools like **React.js**, **Tailwind CSS**, and **React Router**, this app ensures a smooth and responsive experience.
 
-🚀 **[Live Demo on Netlify](https://elegant-cassata-e23ab0.netlify.app/course-types)**
+🚀 **[Live Demo on Netlify](https://vercel.com/avi4/student-registration-system)**
 
 ---
 
