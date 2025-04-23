@@ -3,7 +3,7 @@
 
 Welcome to the **Student Registration System**, a modern web application to streamline student enrollments, manage course types, create courses, and handle course offerings with ease! Built using the latest frontend tools like **React.js**, **Tailwind CSS**, and **React Router**, this app ensures a smooth and responsive experience.
 
-🚀 **[Live Demo on Vercel](https://student-registration-system-livid.vercel.app/)**
+🚀 **[Live Demo on Vercel](https://student-registration-system-o7ji.vercel.app/)**
 
 ---
 
