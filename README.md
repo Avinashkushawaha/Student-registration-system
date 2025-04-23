@@ -44,11 +44,11 @@ Welcome to the **Student Registration System**, a modern web application to stre
 
 | 🏠 Home Page | 🧾 Course Types |
 |-------------|-----------------|
-| ![Home](screenshots/home.png) | ![Course Types](screenshots/course-types.png) |
+| ![CourseType](screenshots/courseTypes.png) | ![Course](screenshots/Courses.png) |
 
 | 📅 Offerings | 🧑‍🎓 Registrations |
 |-------------|--------------------|
-| ![Offerings](screenshots/offerings.png) | ![Registrations](screenshots/registrations.png) |
+| ![Offerings](screenshots/CourseOffering.png) | ![Registrations](screenshots/StudentRegistrations.png) |
 
 ---
 
