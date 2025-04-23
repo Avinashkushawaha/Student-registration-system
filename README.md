@@ -48,7 +48,7 @@ Welcome to the **Student Registration System**, a modern web application to stre
 
 | 📅 Offerings | 🧑‍🎓 Registrations |
 |-------------|--------------------|
-| ![Offerings](CourseOffering.png) | ![Registrations](StudentRegistrations.png) |
+| ![Offerings](CourseOffering.png) | ![Registrations](StudentRegistraions.png) |
 
 ---
 
